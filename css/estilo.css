@@ -14,6 +14,20 @@
 
 .produtos ul {
     list-style-type: none;
+    text-align: center;
+}
+
+.produtos li {
+    list-style-type: none;
+
+}
+
+.loja-fisica {
+    margin-bottom: 50px;
+}
+
+.product-row  {
+    margin-top: 15px;
 }
 
 nav {
